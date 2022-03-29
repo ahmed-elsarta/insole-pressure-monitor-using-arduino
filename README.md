@@ -14,14 +14,13 @@
 
 ## Summary
 
-
-## Application: insole pressure monitor
 The main purpose of this system is to monitor the change of pressure
 inside the patient’s sole, which helps physical therapists with gait
 analysis and performance monitoring.
 Measuring the amount of force exerted by athletes in particular is
 critical to monitoring their performance. (to put it simply, pressing
 harder on the ground generally means more speed, height, etc.)
+here we try to measure the force on the patient's sole, using FSR.
 ## Circuit Diagram
 ![circuit schematic](schematic.jpg)
 
